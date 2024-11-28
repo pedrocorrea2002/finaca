@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "118397987635",
+    "firebase_url": "https://bancofinanca-maia-default-rtdb.firebaseio.com",
+    "project_id": "bancofinanca-maia",
+    "storage_bucket": "bancofinanca-maia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118397987635:android:a2d12e986ca2052f496c46",
+        "android_client_info": {
+          "package_name": "com.app.finaca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxX6B69K1Cr8jvHwjc1cbmrM6tk8KNIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
